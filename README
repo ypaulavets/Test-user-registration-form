@@ -1,1 +1,9 @@
-Example application for test shell script example :)
+Android example application for test shell script example :)
+
+Platform: Android 2.2
+Netbeans 6.9 was used to create this project
+
+Application has to Activities:
+Main - with 6 edit view fields and submit button
+FormSubmitted - with a button to get back to the Main form
+
